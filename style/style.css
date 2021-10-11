@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+#page{
+    text-align: center;
+    padding: 100px 0px;
+}
+.first__paragraph{
+     color:green;
+     font-weight:900;
+     font-size:25px;
+}
+hr{
+    width:30%;
+    margin-left: 35%;
+}
+.first__header{
+    margin: 10px 25%;
+    width:50%;
+    font-weight: 900;
+    font-size:45px;
+    
+}
+.parent{
+    float: left;
+    width: 70%;
+    margin-left: 20%;
+    /* border:1px solid red; */
+}
+.child{
+    float: left;
+    width: 50%;
+    text-align: left;
+   
+}
+.img{
+    float: left;
+    width:15%;
+}
+.paragraph{
+    float: left;
+    width: 60%;
+}
+.paragraph h3{
+    float: left;
+    width: 100%;
+    /* border: 1px solid green; */
+    margin:10px 0px;
+}
+.paragraph p{
+   width: 100%;
+}
